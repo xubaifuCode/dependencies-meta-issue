@@ -1,0 +1,12 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "dependencies": {
+    "lib1": "workspace: *"
+  },
+  "dependenciesMeta": {
+    "lib1": {
+      "injected": true
+    }
+  }
+}
